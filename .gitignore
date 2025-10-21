@@ -1,0 +1,44 @@
+# 🐍 Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🧪 Virtual environment folders
+venv/
+env/
+.venv/
+
+# 📦 Package and dependency files
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# 🧰 IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 🪶 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🖼️ Image and media cache
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# 🧾 Logs and system files
+*.log
+.DS_Store
+Thumbs.db
+
+# 🎥 Video or camera test recordings
+*.avi
+*.mp4
+*.mov
+
+# 🧩 Miscellaneous
+__MACOSX/
